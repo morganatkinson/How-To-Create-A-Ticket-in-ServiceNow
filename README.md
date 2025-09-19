@@ -1,4 +1,4 @@
-<Insert-Loom-VideoLink-Here>
+# Watch Me Build The Lab Here
 https://www.loom.com/share/8b8f9c34f97f4460a0c5115fd05d6732?sid=f2b656c8-d543-411c-be81-925c7e3d8b9c
 
 # ServiceNow Lab: Creating an Incident Ticket
